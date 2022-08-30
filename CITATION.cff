@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: If you use any contents of this repository, please cite the software and the paper.
+authors:
+  - family-names: Ritik
+    given-names: Bompilwar
+    orcid: https://orcid.org/ 0000-0002-3593-7122
+title: tCrop
+version: 1.0.4
+
+references:
+  - type: conference-paper
+    authors:
+      - family-names: Bompilwar
+        given-names: Ritik
+    title: "tCrop: Thermal Imaging Based Plant Stress Identification Using On-Edge Deep Learning"
+    year: 2022
+    conference:
+      name: 2022 IEEE Region 10 Symposium (TENSYMP)
+      location: VICTOR MENEZES CONVENTION CENTRE
+      address: IIT Bombay
+      city: Mumbai
+      region: Maharashtra
+      post-code: "400076"
+      country: IN
+      date-start: 2022-07-01
+      date-end: 2022-07-03
+    start: 1
+    end: 6
+    doi: 10.1109/TENSYMP54529.2022.9864547
