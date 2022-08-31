@@ -5,7 +5,7 @@ message: If you use any contents of this repository, please cite the software an
 #     given-names: Bompilwar
 #     orcid: https://orcid.org/ 0000-0002-3593-7122
 # title: tCrop
-# version: 1.0.4
+version: 1.0.4
 
 references:
   - type: conference-paper
