@@ -1,10 +1,10 @@
 cff-version: 1.2.0
 message: If you use any contents of this repository, please cite the software and the paper.
-# authors:
-#   - family-names: Ritik
-#     given-names: Bompilwar
-#     orcid: https://orcid.org/ 0000-0002-3593-7122
-# title: tCrop
+authors:
+  - family-names: Ritik
+    given-names: Bompilwar
+    orcid: https://orcid.org/ 0000-0002-3593-7122
+title: tCrop
 version: 1.0.4
 
 references:
