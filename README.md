@@ -1,4 +1,4 @@
-# _tCrop_: Thermal Imaging Based Plant Stress Identification Using On-Edge Deep Learning
+# [_tCrop_: Thermal Imaging Based Plant Stress Identification Using On-Edge Deep Learning](https://ieeexplore.ieee.org/abstract/document/9864547)
 
 ## BibTeX
 
