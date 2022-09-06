@@ -10,7 +10,7 @@ deep learning for edge computing platforms. The novel model classifies the disea
 
 
 ## Datset Acquisition & Preparation
-![image](https://user-images.githubusercontent.com/54806252/188624956-59aa09ec-76bb-4d2a-8bc9-739aa4657878.png=300x200)
+![image](https://user-images.githubusercontent.com/54806252/188624956-59aa09ec-76bb-4d2a-8bc9-739aa4657878.png)
 * Dataset having thermal images of diseased and healthy leaves of paddy crops was acquired from [1].
 * It had 602 images belonging five classes namely Bacterial Leaf Blight, Blast, Leaf Spot, Hispa and Healthy leaves.
 * The images were cropped to remove the temperature tags and other texts.
