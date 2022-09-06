@@ -56,5 +56,5 @@ doi={10.1109/TENSYMP54529.2022.9864547}}
 ```
 
 ## References
-1. https://www.kaggle.com/sujaradha/thermal-images-diseased-healthy-leaves-paddy![image](https://user-images.githubusercontent.com/54806252/188629624-a5ee4f8e-bc78-4e10-9075-ee4a3cc4224c.png)
+1. https://www.kaggle.com/datasets/sujaradha/thermal-images-diseased-healthy-leaves-paddy
 
