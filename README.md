@@ -10,6 +10,8 @@ deep learning for edge computing platforms. The novel model classifies the disea
 
 
 ## Datset Acquisition & Preparation
+
+
 * Dataset having thermal images of diseased and healthy leaves of paddy crops was acquired from [1].
 * It had 602 images belonging five classes namely Bacterial Leaf Blight, Blast, Leaf Spot, Hispa and Healthy leaves.
 * The images were cropped to remove the temperature tags and other texts.
@@ -18,7 +20,7 @@ deep learning for edge computing platforms. The novel model classifies the disea
 * Total number of images after augmentation are 2200.
 * The dataset was divided into train, validation and test dataset of 1539, 439 and 222.
 
-<img width="800" height="600" alt="Screenshot 2022-09-06 at 4 59 07 PM" src="https://user-images.githubusercontent.com/54806252/188628945-793ca14e-f8da-4017-bd57-123097a03056.png">
+
 
 
 ## MODEL TRAINING & EVALUATION
@@ -27,8 +29,6 @@ deep learning for edge computing platforms. The novel model classifies the disea
 * Categorical Crossentropy was loss function used along with Adam optimizer and Accuracy as metrics.
 * Model was trained on Google’s Collaboratory Platform  for 30 epochs.
 * Model gave accuracy of 99% on training dataset and 93% on validation dataset.
-
-<img width="1000" alt="Screenshot 2022-09-06 at 5 17 03 PM" src="https://user-images.githubusercontent.com/54806252/188629088-7483c73e-53f0-4f64-9572-6295dc4a3100.png">
 
 
 
