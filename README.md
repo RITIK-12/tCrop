@@ -11,11 +11,11 @@ deep learning for edge computing platforms. The novel model classifies the disea
 
 ## Datset Acquisition & Preparation
 ![augmentation-1](https://user-images.githubusercontent.com/54806252/188620280-173af13c-ad0a-4297-b652-7803dab7a1d1.png)
-*The images were cropped to remove the temperature tags and other texts.
-*Image augmentation techniques such as horizontal flip, vertical flip and rotation by 45, 90 degrees were used to remove class imbalance and  increase size of dataset.
-*Images were then resized to 224x224 pixels.
-*Total number of images after augmentation are 2200.
-*The dataset was divided into train, validation and test dataset of 1539, 439 and 222.
+* The images were cropped to remove the temperature tags and other texts.
+* Image augmentation techniques such as horizontal flip, vertical flip and rotation by 45, 90 degrees were used to remove class imbalance and  increase size of dataset.
+* Images were then resized to 224x224 pixels.
+* Total number of images after augmentation are 2200.
+* The dataset was divided into train, validation and test dataset of 1539, 439 and 222.
 
 
 ## BibTeX
