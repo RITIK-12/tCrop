@@ -18,7 +18,7 @@ deep learning for edge computing platforms. The novel model classifies the disea
 * Total number of images after augmentation are 2200.
 * The dataset was divided into train, validation and test dataset of 1539, 439 and 222.
 
-<img width="498" alt="Screenshot 2022-09-06 at 4 59 07 PM" src="https://user-images.githubusercontent.com/54806252/188628945-793ca14e-f8da-4017-bd57-123097a03056.png">
+<img width="1000" alt="Screenshot 2022-09-06 at 4 59 07 PM" src="https://user-images.githubusercontent.com/54806252/188628945-793ca14e-f8da-4017-bd57-123097a03056.png">
 
 
 ## MODEL TRAINING & EVALUATION
@@ -28,7 +28,7 @@ deep learning for edge computing platforms. The novel model classifies the disea
 * Model was trained on Google’s Collaboratory Platform  for 30 epochs.
 * Model gave accuracy of 99% on training dataset and 93% on validation dataset.
 
-<img width="1206" alt="Screenshot 2022-09-06 at 5 17 03 PM" src="https://user-images.githubusercontent.com/54806252/188629088-7483c73e-53f0-4f64-9572-6295dc4a3100.png">
+<img width="1000" alt="Screenshot 2022-09-06 at 5 17 03 PM" src="https://user-images.githubusercontent.com/54806252/188629088-7483c73e-53f0-4f64-9572-6295dc4a3100.png">
 
 
 
@@ -37,7 +37,7 @@ deep learning for edge computing platforms. The novel model classifies the disea
 * Owing to 95% accuracy only  14 images were misclassified.
 * High precision and recall values indicate good performance of the classification model.
 
-<img width="865" alt="Screenshot 2022-09-06 at 5 14 54 PM" src="https://user-images.githubusercontent.com/54806252/188628543-48f98c81-0b88-4912-83a0-34304fe0ad43.png">
+<img width="1000" alt="Screenshot 2022-09-06 at 5 14 54 PM" src="https://user-images.githubusercontent.com/54806252/188628543-48f98c81-0b88-4912-83a0-34304fe0ad43.png">
 
 
 ## BibTeX
