@@ -37,7 +37,7 @@ deep learning for edge computing platforms. The novel model classifies the disea
 
 ## Model Testing
 * Model was evaluated on test dataset of 222 images.
-* Owing to 95% accuracy only  14 images were misclassified.
+* Owing to 94% accuracy only  14 images were misclassified.
 * High precision and recall values indicate good performance of the classification model.
 
 <img width="1000" alt="Screenshot 2022-09-06 at 5 14 54 PM" src="https://user-images.githubusercontent.com/54806252/188628543-48f98c81-0b88-4912-83a0-34304fe0ad43.png">
