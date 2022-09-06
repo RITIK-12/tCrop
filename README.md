@@ -10,6 +10,7 @@ deep learning for edge computing platforms. The novel model classifies the disea
 
 
 ## Datset Acquisition & Preparation
+<img width="1000" alt="Screenshot 2022-09-06 at 5 35 26 PM" src="https://user-images.githubusercontent.com/54806252/188632924-79cbe23c-3b0c-486f-ab69-9bfb467d5937.png">
 
 
 * Dataset having thermal images of diseased and healthy leaves of paddy crops was acquired from [1].
