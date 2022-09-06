@@ -21,7 +21,7 @@ deep learning for edge computing platforms. The novel model classifies the disea
 * Total number of images after augmentation are 2200.
 * The dataset was divided into train, validation and test dataset of 1539, 439 and 222.
 
-<img width="1000" height="300" alt="Screenshot 2022-09-06 at 5 35 04 PM" src="https://user-images.githubusercontent.com/54806252/188633132-26bebbe5-00b8-4195-8480-801078d679fd.png">
+<img width="1000" height="400" alt="Screenshot 2022-09-06 at 5 35 04 PM" src="https://user-images.githubusercontent.com/54806252/188633132-26bebbe5-00b8-4195-8480-801078d679fd.png">
 
 
 
