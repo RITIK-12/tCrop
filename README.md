@@ -30,6 +30,7 @@ deep learning for edge computing platforms. The novel model classifies the disea
 * Model was trained on Google’s Collaboratory Platform  for 30 epochs.
 * Model gave accuracy of 99% on training dataset and 93% on validation dataset.
 
+<img width="1000" alt="Screenshot 2022-09-06 at 5 17 03 PM" src="https://user-images.githubusercontent.com/54806252/188632633-9248132f-3422-4a2f-9343-5615a268ebf7.png">
 
 
 ## Model Testing
