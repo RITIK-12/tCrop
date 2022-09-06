@@ -33,21 +33,8 @@ deep learning for edge computing platforms. The novel model classifies the disea
 * Owing to 95% accuracy only  14 images were misclassified.
 * High precision and recall values indicate good performance of the classification model.
 
+<img width="865" alt="Screenshot 2022-09-06 at 5 14 54 PM" src="https://user-images.githubusercontent.com/54806252/188628543-48f98c81-0b88-4912-83a0-34304fe0ad43.png">
 
-## BibTeX
-If you find this code or paper useful, please use the following reference:
-
-```
-@INPROCEEDINGS{9864547,  
-author={Bompilwar, Ritik and Singh Rathor, Surya Pratap and Das, Debanjan},  
-booktitle={2022 IEEE Region 10 Symposium (TENSYMP)},   
-title={tCrop: Thermal Imaging Based Plant Stress Identification Using On-Edge Deep Learning},   
-year={2022},  
-volume={},  
-number={},  
-pages={1-6},  
-doi={10.1109/TENSYMP54529.2022.9864547}}
-```
 
 ## BibTeX
 If you find this code or paper useful, please use the following reference:
