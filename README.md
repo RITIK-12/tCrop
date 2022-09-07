@@ -23,7 +23,7 @@ deep learning for edge computing platforms. The novel model classifies the disea
 
 <img width="1000" height="500" alt="Screenshot 2022-09-06 at 5 35 04 PM" src="https://user-images.githubusercontent.com/54806252/188633132-26bebbe5-00b8-4195-8480-801078d679fd.png">
 
-
+Dataset used in this research can be found [here](https://www.kaggle.com/datasets/ritikbompilwar/plantstressidentification).
 
 ## MODEL TRAINING & EVALUATION
 * A novel CNN model is proposed for disease classification.
