@@ -3,7 +3,7 @@
 ![vision-1](https://user-images.githubusercontent.com/54806252/188621949-0ce37341-471f-44fd-ad2f-aab3d42166b6.png)
 
 
-## Abstract
+## ✯ Abstract
 Plant stress identification is one of the critical tasks to secure food availability for the future. Stress in plants increases considerably due to changing environmental conditions. This paper proposes an innovative solution for the automatic detection of plant stress using computer vision and
 deep learning for edge computing platforms. The novel model classifies the disease and sends an alert to the cloud if the disease is detected for an early detection of the disease. The idea can be implemented on any edge platform, where the thermal camera captures the image of the crop, the deep learning model predicts the disease in the plant, gives the inference on edge and sends alerts if the disease is detected. The proposed novel CNN model had 90% validation accuracy and 93% test accuracy. The tCrop Lite model had 94% test accuracy and inference time of 0.001 seconds when evaluated on the Raspberry Pi 4 device.
 
