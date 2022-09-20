@@ -9,7 +9,7 @@ deep learning for edge computing platforms. The novel model classifies the disea
 
 
 
-## Datset Acquisition & Preparation
+## ✯ Datset Acquisition & Preparation
 <img width="1000" alt="Screenshot 2022-09-06 at 5 35 26 PM" src="https://user-images.githubusercontent.com/54806252/188632924-79cbe23c-3b0c-486f-ab69-9bfb467d5937.png">
 
 
@@ -23,9 +23,9 @@ deep learning for edge computing platforms. The novel model classifies the disea
 
 <img width="1000" height="500" alt="Screenshot 2022-09-06 at 5 35 04 PM" src="https://user-images.githubusercontent.com/54806252/188633132-26bebbe5-00b8-4195-8480-801078d679fd.png">
 
-### Dataset used in this research can be found [here](https://www.kaggle.com/datasets/ritikbompilwar/plantstressidentification).
+### ✯✯ Dataset used in this research can be found [here](https://www.kaggle.com/datasets/ritikbompilwar/plantstressidentification).
 
-## MODEL TRAINING & EVALUATION
+## ✯ MODEL TRAINING & EVALUATION
 * A novel CNN model is proposed for disease classification.
 * The dense layers are used for inference along with dropout to reduce overfitting.
 * Categorical Crossentropy was loss function used along with Adam optimizer and Accuracy as metrics.
@@ -35,7 +35,7 @@ deep learning for edge computing platforms. The novel model classifies the disea
 <img width="1000" alt="Screenshot 2022-09-06 at 5 17 03 PM" src="https://user-images.githubusercontent.com/54806252/188632633-9248132f-3422-4a2f-9343-5615a268ebf7.png">
 
 
-## Model Testing
+## ✯ Model Testing
 * Model was evaluated on test dataset of 222 images.
 * Owing to 94% accuracy only  14 images were misclassified.
 * High precision and recall values indicate good performance of the classification model.
@@ -43,7 +43,7 @@ deep learning for edge computing platforms. The novel model classifies the disea
 <img width="1000" alt="Screenshot 2022-09-06 at 5 14 54 PM" src="https://user-images.githubusercontent.com/54806252/188628543-48f98c81-0b88-4912-83a0-34304fe0ad43.png">
 
 
-## BibTeX
+## ✯ BibTeX
 If you find this code or paper useful, please use the following reference:
 
 ```
@@ -58,6 +58,6 @@ pages={1-6},
 doi={10.1109/TENSYMP54529.2022.9864547}}
 ```
 
-## References
+## ✯ References
 1. https://www.kaggle.com/datasets/sujaradha/thermal-images-diseased-healthy-leaves-paddy
 
