@@ -26,6 +26,9 @@ deep learning for edge computing platforms. The novel model classifies the disea
 ### ✯ Dataset used in this research can be found [here](https://www.kaggle.com/datasets/ritikbompilwar/plantstressidentification). ✯
 
 ## ✯ MODEL TRAINING & EVALUATION
+<img width="676" alt="Screenshot 2022-09-24 at 1 19 36 PM" src="https://user-images.githubusercontent.com/54806252/192087003-20b6be2e-0725-413d-bf71-6e3b7fc63338.png">
+
+
 * A novel CNN model is proposed for disease classification.
 * The dense layers are used for inference along with dropout to reduce overfitting.
 * Categorical Crossentropy was loss function used along with Adam optimizer and Accuracy as metrics.
